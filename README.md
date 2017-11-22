@@ -1,0 +1,2 @@
+# Barbeiro-Dorminhoco
+O problema do barbeiro sonolento é uma barbearia que há um barbeiro e um número de cadeiras. Se não há cliente, o barbeiro cai no sono. Quando um cliente chega, acorda o barbeiro e este corta seu cabelo. Se um cliente chega quando o barbeiro está cortando o cabelo de outro cliente e houver cadeira vaga, ele espera. Senão, vai embora. O problema é programar este problema sem que haja condições de disputa.
